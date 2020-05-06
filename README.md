@@ -1,2 +1,2 @@
-# all-in-one
-All in one Digitalmakler
+# All-In-One
+Online-Plattform & -Versicherungsmakler
