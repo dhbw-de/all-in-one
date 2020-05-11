@@ -1,2 +1,2 @@
-# All-In-One
+# All-In-One Digital Insurance Solutions
 Online-Plattform & -Versicherungsmakler
