@@ -100,7 +100,7 @@ input, select, textarea {
 	body, input, textarea, select {
 		font-family: 'Open Sans', sans-serif;
 		font-weight: 400;
-		color: #6b7770;
+		color: #345711;
 		font-size: 13pt;
 		line-height: 2em;
 	}
@@ -109,7 +109,7 @@ input, select, textarea {
 		font-family: 'Open Sans Condensed', sans-serif;
 		font-weight: 700;
 		text-transform: uppercase;
-		color: #6b7770;
+		color: #345711;
 		margin: 0 0 0.5em 0;
 		line-height: 1.3;
 	}
@@ -155,7 +155,7 @@ input, select, textarea {
 
 	b, strong {
 		font-weight: 700;
-		color: #6b7770;
+		color: #345711;
 	}
 
 	i, em {
@@ -1792,7 +1792,7 @@ input, select, textarea {
 		font-weight: 700;
 		text-transform: uppercase;
 		text-decoration: none;
-		background: #b1ddab;
+		background: #345711;
 		color: #fff;
 		border: 0;
 		line-height: 1em;
@@ -2098,7 +2098,7 @@ input, select, textarea {
 		font-family: 'Open Sans Condensed', sans-serif;
 		font-weight: 700;
 		text-transform: uppercase;
-		color: #6b7770;
+		color: #345711;
 	}
 
 	form input[type="text"],
@@ -2183,7 +2183,7 @@ input, select, textarea {
 				font-family: 'Open Sans Condensed', sans-serif;
 				font-weight: 700;
 				text-transform: uppercase;
-				color: #6b7770;
+				color: #345711;
 			}
 
 			table.default thead {
@@ -2304,11 +2304,10 @@ input, select, textarea {
 
 	#header {
 		text-align: center;
-		font-size: 2em;
 		font-family: 'Open Sans Condensed', sans-serif;
 		font-weight: 700;
 		text-transform: uppercase;
-		padding: 2em 0;
+		padding: 0 0 1em 0;
 		background: #fff;
 		margin: 0 auto;
 	}
@@ -2316,7 +2315,6 @@ input, select, textarea {
 		#header .logo {
 			position: relative;
 			text-align: center;
-			border-top: solid 5px #e7eae8;
 			top: 0.65em;
 		}
 
@@ -2335,6 +2333,11 @@ input, select, textarea {
 			#header .logo p {
 				display: inline;
 				color: #C1CAC5;
+			}
+
+			.logo {
+				height: 100px;
+				width: auto;
 			}
 
 /* Nav */
@@ -2389,7 +2392,7 @@ input, select, textarea {
 				position: relative;
 				display: block;
 				text-decoration: none;
-				color: #6b7770;
+				color: #345711;
 				top: -6px;
 				padding: 6px 1.5em 0.25em 1.5em;
 				border-bottom-left-radius: 6px;
@@ -2412,13 +2415,13 @@ input, select, textarea {
 			}
 
 			#nav li.current a {
-				background: #b1ddab;
+				background: #345711;
 				color: #fff;
 			}
 
 	.dropotron {
 		list-style: none;
-		background: #6B7770;
+		background: #345711;
 		color: #fff;
 		border-radius: 6px;
 		line-height: 2.75em;
@@ -2469,7 +2472,7 @@ input, select, textarea {
 				left: 50%;
 				margin-left: -1em;
 				top: -0.65em;
-				border-bottom: solid 1em #6B7770;
+				border-bottom: solid 1em #345711;
 				border-left: solid 1em transparent;
 				border-right: solid 1em transparent;
 			}
@@ -2540,7 +2543,7 @@ input, select, textarea {
 
 	#main {
 		background: #fff;
-		border-top: solid 5px #b1ddab;
+		border-top: solid 5px #345711;
 		border-bottom: solid 5px #c1cac5;
 		border-top-width: 35px;
 		border-bottom-width: 10px;
@@ -2823,7 +2826,7 @@ input, select, textarea {
 						position: absolute;
 						left: 0;
 						top: 0;
-						background: #b1ddab;
+						background: #345711;
 						width: 44px;
 						height: 44px;
 						content: '\f0c9';
