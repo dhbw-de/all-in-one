@@ -2622,6 +2622,17 @@ input, select, textarea {
 		margin-bottom: 30px;
 	}
 
+/* stars */
+
+	.stars {
+		display: flex;
+		margin-top: 10px;
+	}
+
+	.stars > img {
+		height: 20px;
+		width: 20px;
+	}
 /* XLarge */
 
 	@media screen and (max-width: 1680px) {
