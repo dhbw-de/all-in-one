@@ -2605,6 +2605,23 @@ input, select, textarea {
 				line-height: 1em;
 			}
 
+/* Contact */
+	.contact-form {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+
+	.contact-text {
+		width: 550px !important;
+		margin-bottom: 10px !important;
+	}
+
+	.contact-checkbox {
+		-webkit-appearance: checkbox !important;
+		margin-bottom: 30px;
+	}
+
 /* XLarge */
 
 	@media screen and (max-width: 1680px) {
